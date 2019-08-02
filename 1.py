@@ -1,3 +1,3 @@
-s=input()
-a=s[::-1]
+vsvd=input()
+a=vsvd[::-1]
 print(a)
